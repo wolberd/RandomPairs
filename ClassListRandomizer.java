@@ -9,7 +9,7 @@ public class ClassListRandomizer {
     public static void main (String args[]) {
 
         arrayListVersion();
-        // arrayVersion();
+        
 
     }
     public static void arrayListVersion() {
